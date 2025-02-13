@@ -1,0 +1,101 @@
+/*App.css */
+
+.body1 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4a4849;
+  }
+  
+  .navbar {
+    background-color: #303338;
+    color: white;
+    padding: 10px;
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 1;
+  }
+  .navbar h1{
+    margin-left: 5%;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    
+    
+
+  }
+  
+  .search input {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+  }
+  
+  
+  .icons button {
+    background: none;
+    border: none;
+    color: white;
+    margin: 0 10px;
+    cursor: pointer;
+    
+  }
+  
+  .sidebar {
+    background-color: #464345;
+    padding: 15px;
+    width: 156px;
+    height: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: fixed;
+  }
+  
+  .sidebar button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background: none;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  .sidebar a{
+    text-decoration: none;
+    color: white;
+  }
+  
+  .feed {
+    flex: 1;
+    padding: 15px;
+    background-color: #e9ebee;
+  }
+  
+  .post {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .main {
+    display: flex;
+  }
+  
+  .fa-user{
+
+    font-size: 30px;
+  }
+  
+
+
+  .d-flex flex-wrap justify-content-center ml-{
+    background-color: aquamarine;
+  }
+  .card-header d-flex align-items-center{
+    background-color: #464345;
+  }

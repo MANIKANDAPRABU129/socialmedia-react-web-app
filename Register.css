@@ -1,0 +1,9 @@
+.reg1{
+    background-image: url("C:\Users\Tuf\OneDrive\Desktop\com-project\com-project\public\444.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}

@@ -1,0 +1,44 @@
+.mkp{
+    background-image: url("C:\Users\Tuf\OneDrive\Desktop\com-project\com-project\public\333.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    
+   
+}
+button{
+    margin-top: 15px;
+    text-align: center;
+}
+ .mani0{
+    background-color:rgb(73, 224, 73);
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    border-style: none;
+
+}
+.mani0:hover{
+    background-color: rgb(36, 189, 36);
+    color: white;
+}
+.mani1 {
+    background-color: rgb(234, 57, 57);
+    padding: 10px;
+    border-radius: 20px;
+    float: right;
+    border-style: none;
+
+}
+.mani1:hover{
+    background-color: rgb(220, 48, 48);
+    color: white;
+}
+form input{
+    border-radius: 20px;
+    border-style: none;
+}
